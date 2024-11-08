@@ -53,10 +53,11 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 .header-nav {
-  display: flex;
   align-items: center;
 }
-
+.container header {
+  display: flex;
+}
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -138,6 +139,7 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
+  display: block;
 }
 .hero-button:hover,
 .hero-button:focus {
