@@ -55,6 +55,8 @@ img {
 .header-nav {
   align-items: center;
   display: flex;
+  padding-top: 24px;
+  padding-bottom: 36px;
 }
 .container-header {
   display: flex;
@@ -103,6 +105,8 @@ img {
   letter-spacing: 0.02em;
   color: #434455;
   margin-left: auto;
+  padding-top: 24px;
+  padding-bottom: 36px;
 }
 .address-list {
   display: flex;
@@ -198,6 +202,9 @@ img {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
+.team-card {
+  padding: 32px 16px;
+}
 .our-team-subtitle {
   font-size: 36px;
   line-height: 1.11;
@@ -233,9 +240,7 @@ img {
   display: flex;
   gap: 24px;
 }
-.card {
-  padding: 32px 0;
-}
+
 /* #endregion */
 /* #region our portfolio */
 .our-portfolio {
@@ -280,6 +285,7 @@ img {
   border: 1px solid #e7e9fc;
   margin-bottom: 8px;
 }
+
 /* #endregion */
 /* #region footer */
 .footer {
