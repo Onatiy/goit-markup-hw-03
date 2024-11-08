@@ -36,11 +36,6 @@ p {
 img {
   display: block;
 }
-.container {
-  max-width: 1158px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
 
 .section {
   padding-top: 120px;
@@ -49,6 +44,11 @@ img {
 /* #endregion */
 
 /* #region header */
+.container {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
 .header {
   border-bottom: 1px solid #e7e9fc;
 }
