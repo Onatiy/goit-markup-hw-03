@@ -55,7 +55,7 @@ img {
 .header-nav {
   align-items: center;
 }
-.container header {
+.container-header {
   display: flex;
 }
 .header-logo {
